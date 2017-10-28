@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y\ key\ numOfTrucks
+comment0.target=Warehouse(int,\ int,\ java.lang.Object,\ int)
+comment0.text=\r\n\ Constructor\ of\ the\ class\ \r\n
+comment1.params=
+comment1.target=int\ getNumOfTruck()
+comment1.text=\r\n\ A\ method\ to\ \ \ return\ the\ number\ of\ trucks\ of\ a\ warehouse\r\n\ @return\ \ \ \ \ \ \ int\ the\ num\ of\ trucks\r\n
+comment2.params=
+comment2.target=void\ decreaseTruck()
+comment2.text=\r\n\ A\ method\ to\ decrease\ the\ num\ of\ trucks\r\n
+comment3.params=Nth
+comment3.target=CoffeeShop\ closestNeighbor(int)
+comment3.text=\r\n\ A\ method\ to\ return\ the\ Nth\ neighbor\ from\ a\ neighborlist\r\n\ @param\ \ \ \ \ \ \ int\ Nth\r\n\ @return\ \ \ \ \ \ CoffeeShop<E>\r\n
+comment4.params=
+comment4.target=boolean\ noTruck()
+comment4.text=\r\nmethod\ that\ check\ whether\ there\ has\ truck\ left\ in\ the\ warehouse\ or\ not\r\n@\ return\ true\ if\ the\ warehosue\ run\ out\ of\ trucks\r\n
+comment5.params=numberOfWarehouse
+comment5.target=boolean\ checkAround(int)
+comment5.text=\r\nmethod\ that\ check\ the\ number\ of\ coffeeshops\ that\ close\ to\ the\ warehouse\ within\ certain\ distance\r\n@\ param\ the\ number\ of\ warehouses,\ using\ to\ calculate\ the\ approprite\ distance\ threshold\r\n@\ return\ true\ if\ the\ there\ are\ more\ than\ 5\ coffee\ shops\ locate\ within\ the\ threshold\ distance\ to\ the\ warehouse\r\n
+numComments=6

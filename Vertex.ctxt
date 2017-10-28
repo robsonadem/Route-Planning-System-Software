@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y\ key
+comment0.target=Vertex(int,\ int,\ java.lang.Object)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vertex\r\n
+comment1.params=Nth
+comment1.target=Vertex\ closestNeighbor(int)
+comment1.text=\r\n\ A\ method\ to\ return\ the\ Nth\ neighbor\ from\ a\ neighborlist\r\n\ @param\ \ \ \ \ \ \ int\ Nth\r\n\ @return\ \ \ \ \ \ Vertex<E>\ v\r\n
+comment2.params=e
+comment2.target=void\ addEdge(Edge)
+comment2.text=\r\n\ A\ method\ to\ add\ edge\ to\ a\ vertex\r\n\ @param\ \ \ \ \ \ Edge<E>\ e\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getNeighborList()
+comment3.text=\r\n\ A\ method\ to\ return\ a\ neighbors\ list\ at\ a\ vertex\r\n\ @return\ \ \ \ \ \ ArrayList<Edge<E>>\ list\r\n
+comment4.params=w
+comment4.target=int\ getDistance(Vertex)
+comment4.text=\r\n\ A\ method\ to\ get\ the\ distance\ from\ another\ vertex\r\n\ @param\ \ \ \ \ \ \ Vertex<E>\ w\r\n\ @return\ \ \ \ \ \ \ int\ distance\r\n
+comment5.params=
+comment5.target=void\ hasVisited()
+comment5.text=\r\nmethod\ that\ set\ the\ vertex\ as\ has\ been\ visited\r\n
+comment6.params=
+comment6.target=void\ notVisited()
+comment6.text=\r\nmethod\ that\ set\ the\ vertex\ as\ has\ not\ been\ visited\r\n
+comment7.params=
+comment7.target=boolean\ checkVisit()
+comment7.text=\r\nmethod\ that\ check\ whether\ the\ vertex\ has\ been\ visited\ or\ not\r\n@\ return\ boolean\ variable\ visited\r\n
+numComments=8

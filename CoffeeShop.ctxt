@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ key\ Order
+comment0.target=CoffeeShop(int,\ int,\ java.lang.Object,\ java.util.Queue)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CoffeShop\r\n
+comment1.params=
+comment1.target=java.util.Queue\ getOrders()
+comment1.text=\r\n\ A\ method\ to\ return\ all\ the\ orders\r\n\ @return\ \ \ \ \ \ \ Queue<Integer>\ a\ queue\ of\ order\r\n
+comment2.params=Nth
+comment2.target=CoffeeShop\ closestNeighbor(int)
+comment2.text=\r\n\ A\ method\ to\ return\ the\ Nth\ neighbor\ from\ a\ neighborlist\r\n\ @param\ \ \ \ \ \ \ int\ Nth\r\n\ @return\ \ \ \ \ \ CoffeeShop<E>\r\n
+comment3.params=
+comment3.target=boolean\ orderFinish()
+comment3.text=\r\nmethod\ that\ check\ whether\ the\ coffeeshop\ finish\ its\ orders\r\n\ @\ return\ orderFinish\r\n
+numComments=4

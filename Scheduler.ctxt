@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scheduler()
+comment0.text=\r\n\ Constructor\ for\ the\ class\ that\ create\ a\ new\ graph\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\ of\ the\ class\ that\ take\ the\ coffeeshop\ file's\ name\ and\ warehouse\ file's\ name\ as\ two\ input\ parameters\r\n
+comment2.params=fileName
+comment2.target=void\ addShop(java.lang.String)
+comment2.text=\r\n\ method\ that\ read\ in\ the\ coffeeshop\ file\ and\ create\ coffeeshop\ then\ add\ them\ in\ the\ graph\r\n\ @\ param\ fileName\ the\ name\ of\ the\ coffeeshop\ file\r\n
+comment3.params=fileName
+comment3.target=void\ addWarehouses(java.lang.String)
+comment3.text=\r\n\ method\ that\ read\ in\ the\ warehouse\ file\ and\ create\ warehouse\ then\ add\ them\ in\ the\ graph\r\n\ @\ param\ fileName\ the\ name\ of\ the\ warehouse\ file\r\n
+comment4.params=
+comment4.target=void\ loadEdge()
+comment4.text=\r\n\ method\ that\ create\ the\ edge\ between\ all\ these\ coffeeshops\ and\ warehouses\r\n
+comment5.params=
+comment5.target=int\ Simulate()
+comment5.text=\r\n\ method\ that\ simulate\ the\ delivery\ process\ and\ minimize\ the\ total\ distance\ traveled\r\n\ @\ return\ the\ total\ distance\ traveled\ \r\n
+numComments=6

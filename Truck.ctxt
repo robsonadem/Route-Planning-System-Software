@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=startVertex
+comment0.target=Truck(Warehouse)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Truck\r\n
+comment1.params=
+comment1.target=int\ getCapacity()
+comment1.text=\r\n\ A\ method\ to\ get\ the\ capacity\ of\ a\ truck\r\n\ @return\ \ \ \ \ \ \ int\ capacity\r\n
+comment2.params=
+comment2.target=int\ getDistance()
+comment2.text=\r\n\ A\ method\ to\ get\ the\ ditance\ traveled\ by\ a\ truck\r\n\ @return\ \ \ \ \ \ \ int\ distance\r\n
+comment3.params=
+comment3.target=Vertex\ getCurrentLocation()
+comment3.text=\r\n\ A\ method\ to\ get\ the\ current\ loaction\ of\ a\ truck\r\n\ @return\ \ \ \ \ \ \ Vertex<E>\ location\r\n
+comment4.params=c
+comment4.target=boolean\ deliver(CoffeeShop)
+comment4.text=\r\n\ A\ method\ to\ \ deliver\ cargo\ to\ shops\r\n\ @return\ \ \ \ \ \ \ boolean\ true\ if\ successful\r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ A\ method\ to\ get\ the\ status\ of\ the\ trucsk\r\n\ @return\ \ \ \ \ \ boolean\ true\ if\ empty\r\n
+comment6.params=
+comment6.target=void\ finishRoute()
+comment6.text=\r\n\ A\ method\ to\ finalize\ the\ route\ of\ a\ truck\ going\ back\ to\ the\ starting\ warehouse\r\n
+numComments=7

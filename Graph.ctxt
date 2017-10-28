@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Graph()
+comment0.text=\r\nconstructor\ of\ the\ class\ that\ create\ a\ empty\ graph\r\n
+comment1.params=x\ y\ k\ Order
+comment1.target=boolean\ addCoffeeShop(int,\ int,\ java.lang.Object,\ java.util.Queue)
+comment1.text=\r\n\ method\ that\ Add\ a\ coffeeshop\r\n\ @param\ k,\ the\ key\ of\ coffeeshop\r\n\ @param\ x,y,\ the\ coordinates\ of\ coffeeshop\r\n\ @param\ Order,\ the\ order\ list\ of\ coffeeshop\ stores\ in\ a\ Queue\r\n\ @return\ true\ if\ the\ adding\ success.\ if\ there\ are\ duplicated\ item\ in\ the\ tree,\ return\ false.\r\n
+comment2.params=x\ y\ k\ numberOfTruck
+comment2.target=boolean\ addWarehouse(int,\ int,\ java.lang.Object,\ int)
+comment2.text=\r\n\ method\ that\ Add\ a\ warehouse\r\n\ @param\ k,\ the\ key\ of\ warehouse\r\n\ @param\ x,y,\ the\ coordinates\ of\ warehouse\r\n\ @param\ numberOfTruck,\ the\ number\ of\ trucks\ that\ warehouse\ has\r\n\ @return\ true\ if\ the\ adding\ success.\ if\ there\ are\ duplicated\ item\ in\ the\ tree,\ return\ false.\r\n
+comment3.params=k1\ k2\ w
+comment3.target=void\ addEdge(java.lang.Object,\ java.lang.Object,\ int)
+comment3.text=\r\n\ method\ that\ Add\ a\ edge\r\n\ @param\ k1,\ the\ key\ of\ vertex\ 1\r\n\ @param\ k2,\ the\ key\ of\ vertex\ 2\r\n\ @param\ w,\ the\ weight\ of\ the\ edge\r\n
+comment4.params=
+comment4.target=void\ createConnection()
+comment4.text=\r\n\ method\ that\ creats\ all\ the\ connecting\ edges\ from\ warehouse\ to\ coffeeShop\ and\ coffeeShop\ to\ coffeeShop\r\n
+comment5.params=
+comment5.target=boolean\ checkShopOrder()
+comment5.text=\r\n\ method\ that\ check\ whether\ all\ the\ coffeeshops\ finish\ their\ orders\ \r\n\ @return\ true\ when\ all\ coffeeshops\ finish\ their\ orders\ \r\n
+comment6.params=
+comment6.target=boolean\ checkWarehouseTruck()
+comment6.text=\r\n\ method\ that\ check\ whether\ all\ the\ warehouses\ run\ out\ of\ trucks\ except\ the\ main\ warehouse\ \r\n\ @return\ true\ when\ all\ warehouse\ except\ the\ main\ warehouse\ run\ out\ of\ trucks\ \r\n
+comment7.params=
+comment7.target=int\ planRoute()
+comment7.text=\r\n\ method\ that\ using\ the\ greedy\ algorithm\ to\ let\ truck\ traverse\ through\ the\ vertex\ on\ the\ map\ with\ the\ shortest\ distance\ traveled\ in\ total\r\n\ @return\ the\ total\ distance\ traveled\ by\ all\ trucks\r\n
+numComments=8

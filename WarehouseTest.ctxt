@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testGetNumOfTrucks()
+comment1.params=
+comment1.target=void\ testDecreaseTrucks()
+comment2.params=
+comment2.target=void\ testNoTruck()
+comment3.params=
+comment3.target=void\ testDeliver()
+numComments=4
